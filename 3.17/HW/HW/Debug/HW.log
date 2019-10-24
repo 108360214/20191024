@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\lee\onedrive\desktop\20191023hw\3.17\hw\hw\main.c(22): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  HW.vcxproj -> C:\Users\Lee\OneDrive\Desktop\20191023HW\3.17\HW\Debug\HW.exe
+  HW.vcxproj -> C:\Users\Lee\OneDrive\Desktop\20191023HW\3.17\HW\Debug\HW.pdb (Partial PDB)
